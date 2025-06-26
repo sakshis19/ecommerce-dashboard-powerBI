@@ -1,85 +1,82 @@
 # 🛒 ecommerce-dashboard-powerbi
 
-An interactive and visually rich **Power BI dashboard** that provides a comprehensive view of an ecommerce company’s performance across sales, customers, products, geography, and delivery insights from **2021 to 2023**.
+An interactive and visually rich **Power BI dashboard** that provides a comprehensive view of an ecommerce company’s performance across 🛍️ sales, 👥 customers, 📦 products, 🌍 geography, and 🚚 delivery insights from **2021 to 2023**.
 
-This project demonstrates skills in data analysis, business intelligence, and visual storytelling using Microsoft Power BI.
+This project demonstrates my skills in **data analysis**, **business intelligence**, and **visual storytelling** using Microsoft Power BI.
 
 ---
 
 ## 📸 Dashboard Preview
 
 ![Ecommerce Dashboard](Dashboard.png)  
+*A snapshot of the final dashboard created in Power BI Desktop.*
 
 ---
 
 ## 📊 Key Metrics & Visuals
 
-| Metric                  | Value      |
-|-------------------------|------------|
-| 💰 Total Revenue         | **47.90M** |
-| 🛍️ Total Sales           | **23.16M** |
-| 📈 Total Profit          | **2.61M**  |
-| 📦 Total Quantity Sold   | **223K**   |
-| 🧾 Total Orders          | **113K**   |
-| 🧑‍🤝‍🧑 Total Customers      | **42K**    |
+| 📌 Metric               | 📈 Value     |
+|-------------------------|-------------|
+| 💰 Total Revenue         | **47.90M**  |
+| 🛍️ Total Sales           | **23.16M**  |
+| 📈 Total Profit          | **2.61M**   |
+| 📦 Quantity Sold         | **223K**    |
+| 🧾 Total Orders          | **113K**    |
+| 👥 Total Customers       | **42K**     |
 
 ---
 
-## 📈 Core Insights from Dashboard
+## 🔍 Core Insights from Dashboard
 
-1. **📆 Year-over-Year Growth:**  
-   Clear upward trend in **sales, profit, and quantity sold** across quarters from **2021 to 2023**.
+1. **📆 Year-over-Year Growth**  
+   ↪ A steady upward trend in **sales**, **profit**, and **quantity sold** between 2021 and 2023.
 
-2. **🗺️ Regional Performance:**  
-   The **Central** region leads in sales, profit, and product movement, followed by the East.
+2. **🗺️ Regional Performance**  
+   ↪ The **Central** region leads in overall performance, with strong metrics across all KPIs.
 
-3. **👥 Customer Segment Analysis:**  
-   - **Corporate** customers contribute most to **profit and revenue**  
-   - **Consumer** segment has the highest **quantity sold**
+3. **👥 Customer Segment Analysis**  
+   - **Corporate** customers drive the highest **profit & revenue**.  
+   - **Consumers** lead in **total product quantity sold**.
 
-4. **📦 Product Category Performance:**  
-   - **Office Supplies** dominate in total sales  
-   - **Furniture** and **Technology** follow closely  
-   - **Top 5 Products** include "Staplers", "Storage Units", and "Paper"
+4. **📦 Product Category Performance**  
+   - **Office Supplies** dominate in total sales and volume.  
+   - **Top 5 Products** include **Staplers**, **Storage Units**, and **Paper**.
 
-5. **🚚 Delivery Status Overview:**  
-   - **On-time delivery** is the most common, followed by **Advance shipping**  
-   - Fewer instances of **shipping cancellation or delays**
+5. **🚚 Delivery Status Overview**  
+   - Majority of deliveries are **on-time**, followed by **advance shipping**.  
+   - **Late or canceled shipments** are minimal.
 
-6. **🌍 Geo Insights:**  
-   - Heat map and scatter overlay show sales performance by country/state  
-   - **Mexico** shows high activity and revenue generation
+6. **🌍 Geo Insights**  
+   - Map visuals highlight strong sales in **Mexico**, making it a key region for expansion or targeting.
 
 ---
 
 ## 🎯 Features
 
-- ✅ Year/Region/Segment/Category/Delivery filters for deep dive
-- 📈 KPI Cards with up-to-date metrics
-- 📊 Bar Charts for top categories, products, and orders
-- 🌍 Geo map for regional performance
-- 🧭 Trend lines for revenue and quantity sold over time
-- 🧩 Drill-down capabilities via slicers
+- ✅ Dynamic filters for Year, Region, Segment, Category, Delivery
+- 📈 KPI Cards for real-time performance monitoring
+- 📊 Bar & column charts to analyze products and segments
+- 🌍 Geo map for regional performance visualization
+- 🧭 Time-based trend lines (quarterly/yearly)
+- 🧩 Drill-down capabilities with interactive slicers
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Tool             | Purpose                         |
-|------------------|---------------------------------|
-| **Power BI**     | Dashboard creation & visualization |
-| **Excel**        | Data cleaning & transformation   |
+| ⚙️ Tool          | 📝 Purpose                            |
+|------------------|----------------------------------------|
+| **Power BI**     | Dashboard creation & data visualization |
+| **Excel**        | Data cleaning, formatting & filtering   |
 
 ---
-
 
 ---
 
 ## 🚀 How to Run
 
-1. **Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/)** (free)
-2. Clone this repo:
+1. **Install Power BI Desktop** 👉 [Download Here](https://powerbi.microsoft.com/desktop/)
+2. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/ecommerce-dashboard-powerbi.git
-
+   git clone https://github.com/sakshis19/ecommerce-dashboard-powerbi.git
 
