@@ -2,13 +2,13 @@
 
 An interactive and visually rich **Power BI dashboard** that provides a comprehensive view of an ecommerce company’s performance across sales, customers, products, geography, and delivery insights from **2021 to 2023**.
 
-Built as part of my **PG-DBDA coursework at CDAC Mumbai**, this project demonstrates skills in data analysis, business intelligence, and visual storytelling using Microsoft Power BI.
+This project demonstrates skills in data analysis, business intelligence, and visual storytelling using Microsoft Power BI.
 
 ---
 
 ## 📸 Dashboard Preview
 
-![Ecommerce Dashboard](Screenshots/dashboard.png)  
+![Ecommerce Dashboard](Dashboard.png)  
 
 ---
 
@@ -72,5 +72,14 @@ Built as part of my **PG-DBDA coursework at CDAC Mumbai**, this project demonstr
 
 ---
 
-## 📂 Project Structure
+
+---
+
+## 🚀 How to Run
+
+1. **Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/)** (free)
+2. Clone this repo:
+   ```bash
+   git clone https://github.com/your-username/ecommerce-dashboard-powerbi.git
+
 
